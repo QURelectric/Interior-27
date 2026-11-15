@@ -20,3 +20,5 @@
 `source .venv/bin/activate`
 - On Windows (PowerShell):
 `.venv\Scripts\Activate.ps1`
+4. Install required packages:
+`pip install -r requirements.txt`
